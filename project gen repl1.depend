@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1528046209 source:e:\project gen repl1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1528046209 source:d:\gen\project gen replace and no mutate no sorting\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
